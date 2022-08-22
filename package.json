@@ -1,0 +1,25 @@
+{
+  "name": "drop-down",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "--watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HojarascaCrepitante/drop-down.git"
+  },
+  "author": "Lucas Vallejos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HojarascaCrepitante/drop-down/issues"
+  },
+  "homepage": "https://github.com/HojarascaCrepitante/drop-down#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
