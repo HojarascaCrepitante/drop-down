@@ -10,5 +10,21 @@
     transition: all 1s ease-in-out ;
 }
 .clicked ul{
-    max-height: 50px;
+    max-height:70px;
+    display: flex;
+    flex-direction: column;
+}
+.clicked li{
+   background-color:rgb(202, 103, 103);
+   border: rgb(155, 18, 18);
+   border-style: solid;
+}
+.target li {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(202, 103, 103);
+}
+li{
+    list-style: none;
 }

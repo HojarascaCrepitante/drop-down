@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("const dropDownMenu = function () {\n  this.classList.toggle(\"clicked\");\n};\n\ndocument.querySelector(\".target\").addEventListener(\"click\", dropDownMenu);\n\n\n//# sourceURL=webpack://drop-down/./src/index.js?");
+eval("const dropDownMenu = function () {\n  this.classList.toggle(\"clicked\");\n};\n\ndocument.querySelector(\".target\").addEventListener(\"click\", dropDownMenu);\n\n\n//# sourceURL=webpack://@hojarascacrepitante/drop-down/./src/index.js?");
 
 /***/ })
 
